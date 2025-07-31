@@ -1,5 +1,7 @@
 # 🚀 Real-Time Cross-Chain Gas Price Tracker with Wallet Simulation
 
+🌐 Live: 🔗 https://realtime-crosschain-gastracker.netlify.app
+
 This project is a **real-time dashboard** built with **React**, **Zustand**, **Ethers.js**, and **Lightweight Charts** that:
 
 - Fetches gas prices across **Ethereum**, **Polygon**, and **Arbitrum** using native **WebSocket RPC**.
@@ -93,8 +95,6 @@ ETHUSD is calculated from Uniswap V3 sqrtPriceX96 values.
  - Zustand-managed mode switching.
  - Demo-ready with clean UI.
 
-🌐 Hosted Link
-🔗 https://realtime-crosschain-gastracker.netlify.app
 
 
 
