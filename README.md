@@ -2,6 +2,7 @@
 
 🌐 Live: 🔗 https://realtime-crosschain-gastracker.netlify.app
 
+
 This project is a **real-time dashboard** built with **React**, **Zustand**, **Ethers.js**, and **Lightweight Charts** that:
 
 - Fetches gas prices across **Ethereum**, **Polygon**, and **Arbitrum** using native **WebSocket RPC**.
@@ -53,16 +54,6 @@ Shared state between:
 - Shows gas + tx cost on each chain (in USD).
 - Marks the cheapest chain with a badge: "Best Value".
 
-📂 Folder Structure
-📦src
- ┣ 📂components     // UI components like input, badge, chain widget
- ┣ 📂hooks          // Custom hooks for fetching and formatting
- ┣ 📂lib            // Uniswap parsing and price calculation logic
- ┣ 📂store          // Zustand state store (mode, gas data, etc.)
- ┣ 📂types          // TypeScript interfaces and enums
- ┣ 📂utils          // Helpers for formatting, math, etc.
- ┣ 📜App.tsx        // Main component layout
- ┗ 📜index.tsx      // Entry point
 
 
 ⚙️ Tech Stack
